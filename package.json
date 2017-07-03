@@ -1,0 +1,17 @@
+{
+  "name": "cotacao-amendoim",
+  "version": "1.0.12",
+  "author": "fabiano",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "jsdom": "^11.0.0",
+    "ramda": "^0.23.0",
+    "rung-sdk": "^1.0.7",
+    "superagent": "^3.5.0",
+    "superagent-promise": "^1.1.0"
+  },
+  "devDependencies": {
+    "rung-cli": "^0.7.4"
+  }
+}
